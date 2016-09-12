@@ -14,6 +14,6 @@ Created alias pui2016 to change directory to PUI2016_rav220 using PUI2016 as env
 
 ![PUI ALIAS Screenshot](PUI-Screenshot.png)
 
-
+![PUI ALIAS Screenshot 2](PUI-Screenshot_2.png)
 
 
