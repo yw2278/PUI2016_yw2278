@@ -44,4 +44,4 @@ if __name__ == "__main__":
         df = pd.DataFrame({'Latitude': [lat], 'Longitude': [lon], 'Stop Name': stopname, 'Stop Status': stopstatus})
         bus_info = bus_info.append(df)
         df = df.reset_index(drop=True)
-    bus_info.to_csv(filename+'.csv',index=False)
+    bus_info.to_csv(filename,index=False)
