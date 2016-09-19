@@ -1,5 +1,6 @@
 # Author: Richard Vecsler, NYU, September 2016
 
+
 # Principals in Urban Informatics
 # HW 2
 # Assignment 1
