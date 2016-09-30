@@ -1,6 +1,6 @@
-1.Hypothesis 
-Lack of statement of idea, null hypothesis or alternative hypothesis clearly.
-Didn't specify the significance level.
+1. Hypothesis 
+  Lack of statement of idea, null hypothesis or alternative hypothesis clearly.
+  Didn't specify the significance level.
 
 2. Data
    Data are clealy manipulated. 
@@ -10,8 +10,8 @@ Didn't specify the significance level.
    Data manipulated shows a clear initail preference to either reject or accept null hypothesis.
 
 3. Thus, Hypothesis is:
-$H0: Cweekend/Aweekend - Cweekday/Aweekday <= 0$
-$H1: Cweekend/Aweekend - Cweekday/Aweekday > 0$
-significance leve 0.05
+  $H0: Cweekend/Aweekend - Cweekday/Aweekday <= 0$
+  $H1: Cweekend/Aweekend - Cweekday/Aweekday > 0$
+  significance leve 0.05
 
 4. suggested statistical method: Z-test
