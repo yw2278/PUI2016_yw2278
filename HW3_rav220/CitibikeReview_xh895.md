@@ -14,4 +14,5 @@
   $H1: Cweekend/Aweekend - Cweekday/Aweekday > 0$
   significance leve 0.05
 
-4. suggested statistical method: Z-test
+4. suggested statistical method: t test
+  The test looks at the difference between two groups: ratios of customer rider ratios during weekends and during weekdays. The independent variables consist of two variables(during weekends/during weekdays). T-test is suitable for the circumstance here.
