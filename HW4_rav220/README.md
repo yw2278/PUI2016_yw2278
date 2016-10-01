@@ -2,7 +2,7 @@ Assignment 1
 
 Assignment 2
 
-Worked with Victor (vsg247) and Adrian (akd361). We found a study which applied a chi square test relating to catgorical variables.  We debated on the dependent variable type and all agreed it was categorical.  It is one based on counts from which the variable derives its proportions.  In turn, the counting data is based on the intrinsically imprecise measure of aggressive behavior.
+Working with Victor (vsg247) and Adrian (akd361), we found a study which applied a chi square test on catgorical variables.  We debated on which type the depended variable was and agreed it was categorical.  The variable derives its proportions based on counts which, in turn, is based on an intrinsically imprecise measure of aggressive behavior.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
