@@ -2,7 +2,9 @@ Assignment 1
 
 Assignment 2
 
-Working with Victor (vsg247) and Adrian (akd361), we found a study which applied a chi square test on catgorical variables.  We debated on which type the depended variable was and agreed it was categorical.  The variable derives its proportions based on counts which, in turn, is based on an intrinsically imprecise measure of aggressive behavior.
+Working with Victor (vsg247) and Adrian (akd361), we found a study which applied a chi square test on catgorical variables.  The paper seeks to determine whether there is, in horses, a link between chronic pain to aggressive behavior.
+
+We debated on the type of depended variable and agreed it was categorical.  It's a proposional variable which is derived from counts.  And I assume counts is effectively of a binomial type (1 or 0).  It may also help to note that, in this study, the "distance" between a "1" or "0" can differ from count to count since it depends on the imprecise way by which an aggressive behavior is measured.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
