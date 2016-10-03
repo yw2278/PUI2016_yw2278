@@ -1,5 +1,3 @@
-Assignment 1
-
 Assignment 2
 
 Working with Victor (vsg247) and Adrian (akd361), we found a study which applied a chi square test on catgorical variables.  The paper seeks to determine whether there is, in horses, a link between chronic pain to aggressive behavior.  We deliberated on what type of dependent variable the authors were working with and concluded it is categorical.  The authors underscored their insights using proportional metrics (which is really just a ratio of a counts - a binomial variable reporting either a "yes" or "no" (ie, aggressive horse or non-aggresive horse). 
