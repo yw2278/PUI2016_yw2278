@@ -1,6 +1,6 @@
 Assignment 1
 
-Peer reviewed of Ian's (is1480) Citibike analysis.  A copy can be found on this repo.
+Peer reviewed Ian's (is1480) Citibike analysis.  A copy can be found on this repo.
 
 Assignment 2
 
@@ -18,3 +18,11 @@ Working with Victor (vsg247) and Adrian (akd361), we found a study which ultizes
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Multivariate Linear Regression | 17: Out of which 1 (the Corruption Perceptions Index ("CPI")) being the variable of interest while the others largely served as adjustments | Various | 1: Under 5 year old Mortailty (Children under 5 deaths per 1000 live births) | Continuous | As Adjustment Variables (see IV(s)) | Various | Does Percevied Corruption significantly impact childhood mortality? | An increase in the CPI is likely to decrease or have no effect on children under 5 year old deaths per 1000 live births | 0.05 for univariate regression and 0.1 for ensuing multivariate regression | [Corruption Kills: Estimating the Global Impact of Corruption on Children Deaths](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026990)
+
+Assignment 3
+
+In progress.
+
+Assignment 4
+
+In progress.  Completion obstructed by type conversion problems.  Chris Streich also looked into it.  
