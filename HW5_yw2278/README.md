@@ -1,3 +1,7 @@
+## Assignment 1:</br>
+Use Ks test and AD test, distributions are gaussian and logistic distribution.</br>
+## Assignment 2:</br>
+Following the instruction, using linear model to fit the data
 ## Assignment 3:</br>
 1. null hypothesis:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;test group lose less average percentage body fat after three month diets than control group after three month &nbsp;&nbsp;&nbsp;&nbsp;exercise.</br>
