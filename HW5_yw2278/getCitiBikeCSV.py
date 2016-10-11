@@ -1,6 +1,6 @@
 import os
 def getCitiBikeCSV(datestring):
-    print "Downloading", datestring
+    print ("Downloading", datestring)
     ### First I will heck that it is not already there
     if not os.path.isfile(os.getenv("PUIDATA") + "/" + datestring + "-citibike-tripdata.csv"):
         if os.path.isfile(datestring + "-citibike-tripdata.csv"):
