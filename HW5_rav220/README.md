@@ -23,11 +23,11 @@
 
 ###   H0: Those who diet and do not excersize (Group 1) lose less or the same amount of fat than those who exercise and  do not diet (Group 2).
 
-#####  Group 1 Fat loss <= Group 2 Fat Loss, sig .05
+#####  Group 1 Fat loss <= Group 2 Fat Loss, Alpha = .05
 
 ###   H1: Those who diet and do not excersize (Group 1) lose more fat than those who exercise and  do not diet (Group 2).
 
-#####       Group 1 Fast Loss > Group 2 Fat Loss, sig  .05
+#####       Group 1 Fast Loss > Group 2 Fat Loss, Alpha = .05
 
 
 ## __________________
@@ -43,11 +43,11 @@ POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion
 
 ### H0: Americans do not trust the president.
 
-#####   expected trust  <  45%, sig = .05
+#####   expected trust  <  45%, Alpha = .05
 
 ### H1: Amerericans do trust the president.
 
-#####   expected trust  =>  45%  , sig = .05
+#####   expected trust  =>  45%  , Alpha = .05
 
 
 ## __________________
@@ -61,11 +61,11 @@ Experimental setup: measure cessation rates for smokers randomly assigned to use
 
 ### H0:  There is no differeance in cessation rates between smokers who use a nicotine patch (Study Group) vs those who don't (Placebo Group)
 
-##### Study Group Cessation = Placebo Group Cessation, sig .05
+##### Study Group Cessation = Placebo Group Cessation, Alpha = .05
 
 ### H1: There is a differeance in cessation rates between smokers who use a nicotine patch (Study Group) vs those who don't (Placebo Group)
 
-##### Study Group Cessation > Placebo Group Cessation, sig .05
+##### Study Group Cessation > Placebo Group Cessation, Alpha = .05
 
 
 ## __________________
@@ -78,8 +78,8 @@ Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
 
 ### H0:  The IQ of children born of women who while pregant with those children smoked is no different than the IQ of children born of those who did not.
 
-#### mean IQ (smoking) = mean IQ (non-smoking), sig .05
+#### mean IQ (smoking) = mean IQ (non-smoking), Alpha = .05
 
 ### H0:  The IQ of children born of women who while pregant with those children smoked is lower than the IQ of children born of those who did not.
 
-#### mean IQ (smoking) < mean IQ (non-smoking), sig  .05
+#### mean IQ (smoking) < mean IQ (non-smoking), Alpha = .05
