@@ -1,1 +1,1 @@
-[Result](random_variable.png)
+[Result](/random_variable.png)
